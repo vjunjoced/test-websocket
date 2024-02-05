@@ -1,0 +1,38 @@
+# Binarios para programas e intermediarios
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Directorio de salida
+/bin/
+
+# Dependencias
+/vendor/
+
+# Archivos del sistema
+.DS_Store
+*.swp
+
+# Directorio que guarda los archivos compilados
+/pkg/
+
+# Binarios
+/bin/
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Otros
+*.gz
+
+# Archivos temporales
+*.tmp
+.env
+__debug_bin*
+tmp/

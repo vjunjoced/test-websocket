@@ -1,0 +1,30 @@
+# Archivos y directorios de control de versiones
+.git
+.gitignore
+
+# Directorios de dependencias
+vendor/
+
+# Archivos binarios y de objeto
+*.o
+*.a
+*.so
+*.exe
+*.test
+*.out
+
+# Archivos de configuración local y logs
+*.log
+*.cfg
+*.config
+
+# Archivos temporales y de caché
+*.swp
+*.swo
+*.swx
+*.tmp
+*~
+.*.swp
+.*.swo
+.*.swx
+.cache/
